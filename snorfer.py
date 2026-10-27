@@ -1,3 +1,5 @@
+#basic bleak scanner combined with a tkinter gui for discovering nearby bluetooth devices
+
 import asyncio
 from bleak import BleakScanner
 import tkinter as tk
